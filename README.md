@@ -14,4 +14,4 @@ Repository for HanComTerm Project
 
 |Isaac SDK with Isaac-sim|
 |------|
-|[ssac Sight Issue](hps://github.com/ChaejinE/Issac_sight)|
+|[ssac Sight Issue](https://github.com/ChaejinE/HanComTermProject/issues/28#issue-955605996)|
