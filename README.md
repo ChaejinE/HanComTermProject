@@ -12,6 +12,7 @@ Repository for HanComTerm Project
 |[April_tag Issue](https://github.com/ChaejinE/HanComTermProject/issues/34#issue-959131845)|
 |[Stereo Issue](https://github.com/ChaejinE/HanComTermProject/issues/35#issue-959148641)|
 |[Navigation Issue](https://github.com/ChaejinE/HanComTermProject/issues/36#issue-959192847)|
+|[Turtlebot Joint Issue](https://github.com/ChaejinE/HanComTermProject/issues/42#issue-963776055)|
 
 |Isaac SDK with Isaac-sim|
 |------|
